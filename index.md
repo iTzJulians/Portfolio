@@ -1,57 +1,49 @@
 ---
 layout: default
-title: Home
+title: My Game Dev Portfolio
 ---
 
-# 🎮 Hi! I'm **Your Name** 👾
+<style>
+  body {
+    background-color: #0d0d0d;
+    color: #f0f0f0;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    padding: 2rem;
+  }
 
-I'm a **Game Developer** passionate about creating unique worlds and immersive experiences.
+  h1, h2, p {
+    margin-bottom: 1rem;
+  }
 
----
+  .neon-separator {
+    border: none;
+    height: 2px;
+    background: linear-gradient(90deg, #ff0000, #ff4d4d);
+    box-shadow: 0 0 10px #ff0000, 0 0 20px #ff4d4d;
+    margin: 2rem 0;
+  }
 
-## 🚀 Featured Projects
+  a {
+    color: #ff4d4d;
+    text-decoration: none;
+    font-weight: bold;
+    transition: 0.3s ease;
+  }
 
-### 🕹️ **Game Name 1**
-![Screenshot Game 1](assets/game1.png)
-> **Genre:** 2D Platformer | **Engine:** Unity  
-> An epic adventure full of action and mystery.
+  a:hover {
+    color: #ffffff;
+    text-shadow: 0 0 5px #ff0000, 0 0 10px #ff0000;
+  }
+</style>
 
-🔗 [Learn More](#) | [Demo](#)
+# My Game Dev Portfolio
 
----
+[See my projects](#projects)
 
-### 🎲 **Game Name 2**
-![Screenshot Game 2](assets/game2.png)
-> **Genre:** Competitive Multiplayer | **Engine:** Unity  
-> A fast-paced strategy game inspired by [reference].
+<hr class="neon-separator">
 
-🔗 [Learn More](#) | [Demo](#)
+## Projects
 
----
+Coming soon...
 
-### 📖 **Game Name 3**
-![Screenshot Game 3](assets/game3.png)
-> **Genre:** Interactive Narrative | **Engine:** Unity  
-> A deep storytelling experience based on [theme or topic].
-
-🔗 [Learn More](#) | [Demo](#)
-
----
-
-## 👤 About Me
-
-I'm a developer specialized in **Unity** and **C#**.  
-I love designing:
-
-- Engaging gameplay mechanics
-- Robust inventory systems
-- Emotional narrative experiences
-
----
-
-## 📫 Contact
-
-- ✉️ Email: [youremail@example.com](mailto:youremail@example.com)
-- 💼 LinkedIn: [YourLinkedIn](#)
-- 🎮 Itch.io: [YourProfile](#)
-- 🛠️ GitHub: [YourGitHub](#)
