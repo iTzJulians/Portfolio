@@ -40,10 +40,52 @@ title: My Game Dev Portfolio
     width: 280px;
     padding: 1.5rem;
     text-align: left;
-    transition: transform 0.3s ease;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
   }
 
   .card:hover {
-    transform: scale
+    transform: scale(1.05);
+    box-shadow: 0 0 20px #ff4d4d, 0 0 30px #ff0000;
+  }
 
+  .card h3 {
+    color: #ff4d4d;
+    margin-bottom: 0.5rem;
+  }
+
+  .card p {
+    font-size: 0.9rem;
+    margin-bottom: 1rem;
+  }
+
+  .card a {
+    color: #ff4d4d;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s ease;
+  }
+
+  .card a:hover {
+    color: #ffffff;
+    text-shadow: 0 0 5px #ff0000, 0 0 10px #ff0000;
+  }
+</style>
+
+# My Game Dev Portfolio
+
+[See my projects](#projects)
+
+<hr class="neon-separator">
+
+## Projects
+
+<div class="card-container">
+
+  <div class="card">
+    <h3>Fox Adventure</h3>
+    <p>A 2D action-platformer featuring a brave fox with unique tail attacks. Developed in Unity.</p>
+    <a href="#">View Project</a>
+  </div>
+
+  <div class="
 
