@@ -1,40 +1,57 @@
 ---
-title: Inicio
+layout: default
+title: Home
 ---
 
-# ¡Hello world! Soy **Julian Castellanos** 👾
+# 🎮 Hi! I'm **Your Name** 👾
 
-Game developer with a passion for creating unique worlds and immersive experiences!
-
-## 🎮 Projects
-
-### [Don´t look behind you]
-![Screenshot Juego 1](assets/juego1.png)
-**Descripción corta:** Aventura de plataformas en 2D llena de acción y misterio.  
-[Ver más](#) | [Demo](#)
+I'm a **Game Developer** passionate about creating unique worlds and immersive experiences.
 
 ---
 
-### [Nombre del Juego 2]
-![Screenshot Juego 2](assets/juego2.png)
-**Descripción corta:** Juego multijugador competitivo inspirado en [referencia].  
-[Ver más](#) | [Demo](#)
+## 🚀 Featured Projects
+
+### 🕹️ **Game Name 1**
+![Screenshot Game 1](assets/game1.png)
+> **Genre:** 2D Platformer | **Engine:** Unity  
+> An epic adventure full of action and mystery.
+
+🔗 [Learn More](#) | [Demo](#)
 
 ---
 
-### [Nombre del Juego 3]
-![Screenshot Juego 3](assets/juego3.png)
-**Descripción corta:** Experiencia narrativa interactiva basada en [tema].  
-[Ver más](#) | [Demo](#)
+### 🎲 **Game Name 2**
+![Screenshot Game 2](assets/game2.png)
+> **Genre:** Competitive Multiplayer | **Engine:** Unity  
+> A fast-paced strategy game inspired by [reference].
 
-## 👤 Sobre mí
+🔗 [Learn More](#) | [Demo](#)
 
-Soy un desarrollador especializado en Unity y C#.  
-Me encanta diseñar mecánicas de juego, sistemas de inventario y experiencias que conecten emocionalmente con los jugadores.
+---
 
-## 📫 Contacto
+### 📖 **Game Name 3**
+![Screenshot Game 3](assets/game3.png)
+> **Genre:** Interactive Narrative | **Engine:** Unity  
+> A deep storytelling experience based on [theme or topic].
 
-- Email: tuemail@example.com
-- LinkedIn: [TuLinkedIn](#)
-- Itch.io: [TuPerfil](#)
-- GitHub: [TuGitHub](#)
+🔗 [Learn More](#) | [Demo](#)
+
+---
+
+## 👤 About Me
+
+I'm a developer specialized in **Unity** and **C#**.  
+I love designing:
+
+- Engaging gameplay mechanics
+- Robust inventory systems
+- Emotional narrative experiences
+
+---
+
+## 📫 Contact
+
+- ✉️ Email: [youremail@example.com](mailto:youremail@example.com)
+- 💼 LinkedIn: [YourLinkedIn](#)
+- 🎮 Itch.io: [YourProfile](#)
+- 🛠️ GitHub: [YourGitHub](#)
