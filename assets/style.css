@@ -1,25 +1,53 @@
-body {
-    font-family: 'Arial', sans-serif;
-    max-width: 800px;
-    margin: auto;
-    padding: 20px;
-}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Game Dev Portfolio</title>
+  <style>
+    body {
+      background-color: #0d0d0d;
+      color: #f0f0f0;
+      font-family: 'Courier New', Courier, monospace;
+      text-align: center;
+      padding: 2rem;
+    }
 
-img {
-    max-width: 100%;
-    border-radius: 8px;
-    margin: 10px 0;
-}
+    h1, h2, p {
+      margin-bottom: 1rem;
+    }
 
-h1, h2 {
-    color: #333;
-}
+    .neon-separator {
+      border: none;
+      height: 2px;
+      background: linear-gradient(90deg, #ff0000, #ff4d4d);
+      box-shadow: 0 0 10px #ff0000, 0 0 20px #ff4d4d;
+      margin: 2rem 0;
+    }
 
-a {
-    color: #007acc;
-    text-decoration: none;
-}
+    a {
+      color: #ff4d4d;
+      text-decoration: none;
+      font-weight: bold;
+      transition: 0.3s ease;
+    }
 
-a:hover {
-    text-decoration: underline;
-}
+    a:hover {
+      color: #ffffff;
+      text-shadow: 0 0 5px #ff0000, 0 0 10px #ff0000;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>My Game Dev Portfolio</h1>
+
+  <p><a href="#projects">See my projects</a></p>
+
+  <hr class="neon-separator">
+
+  <h2 id="projects">Projects</h2>
+  <p>Coming soon...</p>
+
+</body>
+</html>
