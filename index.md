@@ -82,12 +82,14 @@ title: My Game Dev Portfolio
 <div class="card-container">
 
 <div class="card">
+  <img src="https://via.placeholder.com/250x150.png?text=Fox+Adventure" alt="Fox Adventure" style="width:100%; border-radius:8px; margin-bottom:1rem;">
   <h3>Fox Adventure</h3>
   <p>A 2D action-platformer featuring a brave fox with unique tail attacks. Developed in Unity.</p>
   <a href="#">View Project</a>
 </div>
 
 <div class="card">
+  <img src="https://via.placeholder.com/250x150.png?text=Spell+Cards" alt="Spell Cards" style="width:100%; border-radius:8px; margin-bottom:1rem;">
   <h3>Spell Cards</h3>
   <p>Multiplayer online card game using Unity RPCs, featuring magic duels and deck building mechanics.</p>
   <a href="#">View Project</a>
