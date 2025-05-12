@@ -24,26 +24,26 @@ title: My Game Dev Portfolio
     margin: 2rem 0;
   }
 
-  a {
-    color: #ff4d4d;
-    text-decoration: none;
-    font-weight: bold;
-    transition: 0.3s ease;
+  .card-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 2rem;
+    margin-top: 2rem;
   }
 
-  a:hover {
-    color: #ffffff;
-    text-shadow: 0 0 5px #ff0000, 0 0 10px #ff0000;
+  .card {
+    background: #1a1a1a;
+    border: 2px solid #ff0000;
+    box-shadow: 0 0 10px #ff0000, 0 0 20px #ff0000;
+    border-radius: 12px;
+    width: 280px;
+    padding: 1.5rem;
+    text-align: left;
+    transition: transform 0.3s ease;
   }
-</style>
 
-# My Game Dev Portfolio
+  .card:hover {
+    transform: scale
 
-[See my projects](#projects)
-
-<hr class="neon-separator">
-
-## Projects
-
-Coming soon...
 
