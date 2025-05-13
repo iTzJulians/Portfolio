@@ -101,6 +101,12 @@ Desarrollador de videojuegos apasionado por crear experiencias interactivas memo
   <p>Un juego corto de suspenso 2D donde deberas escapar de un aterrador monstruo que se oculta en la oscuridad.</p>
   <a href="#">View Project</a>
 </div>
+<div class="card">
+  <img src="https://via.placeholder.com/250x150.png?text=Spell+Cards" alt="Spell Cards" style="width:100%; border-radius:8px; margin-bottom:1rem;">
+  <h3>Warden of the forest</h3>
+  <p>Proyecto personal en el que actualmente estoy trabajando, un zorro magico debera luchar y proteger un bosque fantastico</p>
+  <a href="#">View Project</a>
+</div>
 
 <div class="card">
   <img src="https://via.placeholder.com/250x150.png?text=Spell+Cards" alt="Spell Cards" style="width:100%; border-radius:8px; margin-bottom:1rem;">
