@@ -90,6 +90,7 @@ Desarrollador de videojuegos apasionado por crear experiencias interactivas memo
 
 <div class="card-container">
 <div class="card">
+    <img src="/assets/Museo del encanto.png" alt="Museo del encanto" style="width:100%; border-radius:8px; margin-bottom:1rem;">
   <h3>Museo del encanto</h3>
   <p>Una entretenida experiencia en VR donde podras conocer la cultura y el folclore Colombiano.</p>
   <a href="#">View Project</a>
