@@ -91,24 +91,35 @@ Desarrollador de videojuegos apasionado por crear experiencias interactivas memo
 ## Projects
 
 <div class="card-container">
-
+<div class="card">
+  <h3>Museo del encanto</h3>
+  <p>Una entretenida experiencia en VR donde podras conocer la cultura y el folclore Colombiano.</p>
+  <a href="#">View Project</a>
+</div>
+  
 <div class="card">
   <img src="/assets/TITULO.PNG" alt="Fox Adventure" style="width:100%; border-radius:8px; margin-bottom:1rem;">
-  <h3>Fox Adventure</h3>
-  <p>A 2D action-platformer featuring a brave fox with unique tail attacks. Developed in Unity.</p>
+  <h3>Don´t look behind you</h3>
+  <p>Un juego corto de suspenso 2D donde deberas escapar de un aterrador monstruo que se oculta en la oscuridad.</p>
   <a href="#">View Project</a>
 </div>
 
 <div class="card">
   <img src="https://via.placeholder.com/250x150.png?text=Spell+Cards" alt="Spell Cards" style="width:100%; border-radius:8px; margin-bottom:1rem;">
-  <h3>Spell Cards</h3>
-  <p>Multiplayer online card game using Unity RPCs, featuring magic duels and deck building mechanics.</p>
+  <h3>Bubble duck</h3>
+  <p>Un divertido juego multijugador local donde deberas competir contra tus amigos y empujarlos fuera de la bañera</p>
   <a href="#">View Project</a>
 </div>
 
 <div class="card">
-  <h3>Pixel Dungeon</h3>
-  <p>Procedurally generated dungeon crawler game, with pixel art graphics and rogue-lite elements.</p>
+  <h3>Dungeon Onslaught</h3>
+  <p>Un prototipo donde lucharas contra ordas de monstruos para desbloquear nuevas armas</p>
+  <a href="#">View Project</a>
+</div>
+
+<div class="card">
+  <h3>Little Jack</h3>
+  <p>Un prototipo donde seras un pequeño raton atrapado en una lavadora, y deberas luchar contra un patito de hule malvado</p>
   <a href="#">View Project</a>
 </div>
 
