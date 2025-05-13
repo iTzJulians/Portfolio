@@ -34,8 +34,8 @@ title: My Game Dev Portfolio-Julian Steven Castellanos Niño
 
   .card {
     background: #1a1a1a;
-    border: 2px solid #ff0000;
-    box-shadow: 0 0 10px #ff0000, 0 0 20px #ff0000;
+    border: 2px solid #0ac0f7;
+    box-shadow: 0 0 10px #0ac0f7, 0 0 20px #0ac0f7;
     border-radius: 12px;
     width: 280px;
     padding: 1.5rem;
