@@ -1,5 +1,6 @@
 title: My Game dev portfolio
 description: Welcome to my videogames world!
 remote_theme: pages-themes/hacker@v0.2.0plugins:
+plugins:
   - jekyll-remote-theme
-author: Tu Nombre
+author: Julian Castellanos
