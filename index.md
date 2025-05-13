@@ -96,34 +96,33 @@ Desarrollador de videojuegos apasionado por crear experiencias interactivas memo
 </div>
   
 <div class="card">
-  <img src="/assets/Dont look behind you" alt="Dont look behind you" style="width:100%; border-radius:8px; margin-bottom:1rem;">
+  <img src="/assets/Dont look behind you.png" alt="Dont look behind you" style="width:100%; border-radius:8px; margin-bottom:1rem;">
   <h3>Don´t look behind you</h3>
   <p>Un juego corto de suspenso 2D donde deberas escapar de un aterrador monstruo que se oculta en la oscuridad.</p>
   <a href="#">View Project</a>
 </div>
 <div class="card">
-  <img src="/assets/" alt="Warden of the forest" style="width:100%; border-radius:8px; margin-bottom:1rem;">
   <h3>Warden of the forest</h3>
   <p>Proyecto personal en el que actualmente estoy trabajando, un zorro magico debera luchar y proteger un bosque fantastico</p>
   <a href="#">View Project</a>
 </div>
 
 <div class="card">
-  <img src="/assets/Bubble duck" alt="Bubble duck" style="width:100%; border-radius:8px; margin-bottom:1rem;">
+  <img src="/assets/Bubble duck.png" alt="Bubble duck" style="width:100%; border-radius:8px; margin-bottom:1rem;">
   <h3>Bubble duck</h3>
   <p>Un divertido juego multijugador local donde deberas competir contra tus amigos y empujarlos fuera de la bañera</p>
   <a href="#">View Project</a>
 </div>
 
 <div class="card">
-  <img src="/assets/Dungeon onslaught" alt="Dungeon Onslaught" style="width:100%; border-radius:8px; margin-bottom:1rem;">
+  <img src="/assets/Dungeon onslaught.png" alt="Dungeon Onslaught" style="width:100%; border-radius:8px; margin-bottom:1rem;">
   <h3>Dungeon Onslaught</h3>
   <p>Un prototipo donde lucharas contra ordas de monstruos para desbloquear nuevas armas</p>
   <a href="#">View Project</a>
 </div>
 
 <div class="card">
-   <img src="/assets/Little Jack" alt="Little Jack" style="width:100%; border-radius:8px; margin-bottom:1rem;">
+   <img src="/assets/Little Jack.png" alt="Little Jack" style="width:100%; border-radius:8px; margin-bottom:1rem;">
   <h3>Little Jack</h3>
   <p>Un prototipo donde seras un pequeño raton atrapado en una lavadora, y deberas luchar contra un patito de hule malvado</p>
   <a href="#">View Project</a>
