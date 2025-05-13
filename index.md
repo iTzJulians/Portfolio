@@ -83,6 +83,16 @@ Passionate game developer dedicated to crafting memorable interactive experience
 - 🖼️ **Art**: Pixel art, 3D modeling and texturing, asset integration
 - 🔧 **Tools**: Git, GitHub, Visual Studio, Blender
 
+## Education
+- 🎓 Video game development –Servicio Nacional de Aprendizaje (SENA), Bogotá, Colombia - 2024
+
+## Work Experience
+- 👨‍💻 Game Developer Intern – [Disruptive IT] – 2024-2025
+- 🏆 Game Developer – Team Leader – Senasoft 2024 (Winner)
+- 👨‍💻 Game Developer UNGames 4D4H jam - 2023 - 2024
+- 👨‍💻 Game Developer Boss Rush 4D4H jam - 2025
+
+
 <hr class="neon-separator">
 
 ## Projects
