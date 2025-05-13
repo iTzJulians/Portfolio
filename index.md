@@ -82,7 +82,7 @@ title: My Game Dev Portfolio
 <div class="card-container">
 
 <div class="card">
-  <img src="/assets/TITULO.png" alt="Fox Adventure" style="width:100%; border-radius:8px; margin-bottom:1rem;">
+  <img src="/assets/TITULO.PNG" alt="Fox Adventure" style="width:100%; border-radius:8px; margin-bottom:1rem;">
   <h3>Fox Adventure</h3>
   <p>A 2D action-platformer featuring a brave fox with unique tail attacks. Developed in Unity.</p>
   <a href="#">View Project</a>
