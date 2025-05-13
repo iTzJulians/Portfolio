@@ -71,9 +71,20 @@ title: My Game Dev Portfolio
   }
 </style>
 
-# My Games
+## Sobre mí
 
-[See my projects](#projects)
+Desarrollador de videojuegos apasionado por crear experiencias interactivas memorables. Con experiencia en Unity, C#, diseño de niveles, y arte pixelado. Me encanta trabajar en proyectos colaborativos y aprender nuevas tecnologías para mejorar cada juego que creo.
+
+## Habilidades Técnicas
+
+- 🛠️ **Motor de juego**: Unity (2D y 3D)
+- 🧠 **Lenguajes**: C#
+- 🎮 **Diseño de juego**: Diseño de niveles, balance de mecánicas, prototipado rápido
+- 🖼️ **Arte**: Pixel art, modelado 3d y texturizado, integración de assets
+- 🔧 **Herramientas**: Git, GitHub, Visual Studio, Blender
+
+<hr class="neon-separator">
+
 
 <hr class="neon-separator">
 
