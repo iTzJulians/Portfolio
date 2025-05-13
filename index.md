@@ -89,8 +89,8 @@ Passionate game developer dedicated to crafting memorable interactive experience
 ## Work Experience
 - 👨‍💻 Game Developer Intern – [Disruptive IT] – 2024-2025
 - 🏆 Game Developer – Team Leader – Senasoft 2024 (Winner)
-- 👨‍💻 Game Developer UNGames 4D4H jam - 2023 - 2024
-- 👨‍💻 Game Developer Boss Rush 4D4H jam - 2025
+- 👨‍💻 Game Developer UNGames 4D4H jam - 2023 - 2024(Winner)
+- 👨‍💻 Game Developer Boss Rush jam - 2025
 
 
 <hr class="neon-separator">
@@ -150,6 +150,7 @@ Passionate game developer dedicated to crafting memorable interactive experience
 
 <ul style="list-style: none; padding: 0; font-size: 1rem;">
   <li><strong>Email:</strong> <a href="mailto:itzjulian14@gmail.com" style="color:#ff4d4d;">itzjulian14@gmail.com</a></li>
+  <li><strong>Phone number:</strong> <a href="+57 3059253049" style="color:#ff4d4d;">+57 3059253049</a></li>
   <li><strong>GitHub:</strong> <a href="https://github.com/itzjulians" target="_blank" style="color:#ff4d4d;">github.com/itzjulians</a></li>
   <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/julian-castellanos-/" target="_blank" style="color:#ff4d4d;">linkedin.com/in/julian-castellanos</a></li>
   <li><strong>Itch.io:</strong> <a href="https://itzjulian-14.itch.io/" target="_blank" style="color:#ff4d4d;">itzjulian-14.itch.io</a></li>
