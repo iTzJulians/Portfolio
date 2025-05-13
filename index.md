@@ -1,6 +1,6 @@
 ---
 layout: default
-title: My Game Dev Portfolio-Julian Steven Castellanos Niño
+title: My Game Dev Portfolio - Julian Steven Castellanos Niño
 ---
 
 <style>
@@ -71,70 +71,72 @@ title: My Game Dev Portfolio-Julian Steven Castellanos Niño
   }
 </style>
 
-## Sobre mí
+## About Me
 
-Desarrollador de videojuegos apasionado por crear experiencias interactivas memorables. Con experiencia en Unity, C#, diseño de niveles, y arte pixelado. Me encanta trabajar en proyectos colaborativos y aprender nuevas tecnologías para mejorar cada juego que creo.
+Passionate game developer dedicated to crafting memorable interactive experiences. Experienced in Unity, C#, level design, and pixel art. I enjoy working on collaborative projects and constantly learning new technologies to enhance the games I create.
 
-## Habilidades Técnicas
+## Technical Skills
 
-- 🛠️ **Motor de juego**: Unity (2D y 3D)
-- 🧠 **Lenguajes**: C#
-- 🎮 **Diseño de juego**: Diseño de niveles, balance de mecánicas, prototipado rápido
-- 🖼️ **Arte**: Pixel art, modelado 3d y texturizado, integración de assets
-- 🔧 **Herramientas**: Git, GitHub, Visual Studio, Blender
+- 🛠️ **Game Engine**: Unity (2D & 3D)
+- 🧠 **Languages**: C#
+- 🎮 **Game Design**: Level design, gameplay balance, rapid prototyping
+- 🖼️ **Art**: Pixel art, 3D modeling and texturing, asset integration
+- 🔧 **Tools**: Git, GitHub, Visual Studio, Blender
 
 <hr class="neon-separator">
-
 
 ## Projects
 
 <div class="card-container">
+
 <div class="card">
-    <img src="/assets/Museo del encanto.png" alt="Museo del encanto" style="width:100%; border-radius:8px; margin-bottom:1rem;">
-  <h3>Museo del encanto</h3>
-  <p>Una entretenida experiencia en VR donde podras conocer la cultura y el folclore Colombiano.</p>
-  <a href="#">View Project</a>
-</div>
-  
-<div class="card">
-  <img src="/assets/Dont look behind you.png" alt="Dont look behind you" style="width:100%; border-radius:8px; margin-bottom:1rem;">
-  <h3>Don´t look behind you</h3>
-  <p>Un juego corto de suspenso 2D donde deberas escapar de un aterrador monstruo que se oculta en la oscuridad.</p>
-  <a href="#">View Project</a>
-</div>
-<div class="card">
-  <h3>Warden of the forest</h3>
-  <p>Proyecto personal en el que actualmente estoy trabajando, un zorro magico debera luchar y proteger un bosque fantastico</p>
+  <img src="/assets/Museo del encanto.png" alt="Museo del encanto" style="width:100%; border-radius:8px; margin-bottom:1rem;">
+  <h3>Museo del Encanto</h3>
+  <p>A VR experience where you can explore Colombian folklore and culture in a fun and interactive way.</p>
   <a href="#">View Project</a>
 </div>
 
 <div class="card">
-  <img src="/assets/Bubble duck.png" alt="Bubble duck" style="width:100%; border-radius:8px; margin-bottom:1rem;">
-  <h3>Bubble duck</h3>
-  <p>Un divertido juego multijugador local donde deberas competir contra tus amigos y empujarlos fuera de la bañera</p>
+  <img src="/assets/Dont look behind you.png" alt="Don't Look Behind You" style="width:100%; border-radius:8px; margin-bottom:1rem;">
+  <h3>Don't Look Behind You</h3>
+  <p>A short 2D suspense game where you must escape a terrifying monster hiding in the dark.</p>
+  <a href="#">View Project</a>
+</div>
+
+<div class="card">
+  <h3>Warden of the Forest</h3>
+  <p>Personal project currently in development. A magical fox must fight to protect a mystical forest.</p>
+  <a href="#">View Project</a>
+</div>
+
+<div class="card">
+  <img src="/assets/Bubble duck.png" alt="Bubble Duck" style="width:100%; border-radius:8px; margin-bottom:1rem;">
+  <h3>Bubble Duck</h3>
+  <p>A fun local multiplayer game where you push your friends out of a bathtub arena!</p>
   <a href="#">View Project</a>
 </div>
 
 <div class="card">
   <img src="/assets/Dungeon onslaught.png" alt="Dungeon Onslaught" style="width:100%; border-radius:8px; margin-bottom:1rem;">
   <h3>Dungeon Onslaught</h3>
-  <p>Un prototipo donde lucharas contra ordas de monstruos para desbloquear nuevas armas</p>
+  <p>A prototype where you battle hordes of monsters and unlock powerful new weapons.</p>
   <a href="#">View Project</a>
 </div>
 
 <div class="card">
-   <img src="/assets/Little Jack.png" alt="Little Jack" style="width:100%; border-radius:8px; margin-bottom:1rem;">
+  <img src="/assets/Little Jack.png" alt="Little Jack" style="width:100%; border-radius:8px; margin-bottom:1rem;">
   <h3>Little Jack</h3>
-  <p>Un prototipo donde seras un pequeño raton atrapado en una lavadora, y deberas luchar contra un patito de hule malvado</p>
+  <p>A prototype where you play as a tiny mouse trapped in a washing machine, fighting a menacing rubber duck.</p>
   <a href="#">View Project</a>
 </div>
 
 </div>
+
 <hr class="neon-separator">
 
-## Contacto y Redes
+## Contact & Socials
 
-<p>¿Quieres trabajar conmigo o ver más de mis proyectos? ¡Contáctame!</p>
+<p>Interested in working together or exploring more of my work? Feel free to reach out!</p>
 
 <ul style="list-style: none; padding: 0; font-size: 1rem;">
   <li><strong>Email:</strong> <a href="mailto:itzjulian14@gmail.com" style="color:#ff4d4d;">itzjulian14@gmail.com</a></li>
