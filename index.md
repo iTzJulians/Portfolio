@@ -112,4 +112,16 @@ Desarrollador de videojuegos apasionado por crear experiencias interactivas memo
   <a href="#">View Project</a>
 </div>
 
-</div> <!-- CIERRE correcto del div.card-container -->
+</div>
+<hr class="neon-separator">
+
+## Contacto y Redes
+
+<p>¿Quieres trabajar conmigo o ver más de mis proyectos? ¡Contáctame!</p>
+
+<ul style="list-style: none; padding: 0; font-size: 1rem;">
+  <li><strong>Email:</strong> <a href="mailto:itzjulian14@gmail.com" style="color:#ff4d4d;">itzjulian14@gmail.com</a></li>
+  <li><strong>GitHub:</strong> <a href="https://github.com/itzjulians" target="_blank" style="color:#ff4d4d;">github.com/itzjulians</a></li>
+  <li><strong>LinkedIn:</strong> <a href="[https://www.linkedin.com/in/tuusuario](https://www.linkedin.com/in/julian-castellanos-/)" target="_blank" style="color:#ff4d4d;">linkedin.com/in/julian-castellanos-/</a></li>
+  <li><strong>Itch.io:</strong> <a href="https://itzjulian-14.itch.io/" target="_blank" style="color:#ff4d4d;">itzjulian-14.itch.io</a></li>
+</ul>
