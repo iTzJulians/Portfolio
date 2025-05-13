@@ -71,7 +71,7 @@ title: My Game Dev Portfolio
   }
 </style>
 
-# My Game Dev Portfolio
+# My Games
 
 [See my projects](#projects)
 
