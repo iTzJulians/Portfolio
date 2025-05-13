@@ -34,8 +34,8 @@ title: My Game Dev Portfolio-Julian Steven Castellanos Niño
 
   .card {
     background: #1a1a1a;
-    border: 2px solid #0ac0f7;
-    box-shadow: 0 0 10px #0ac0f7, 0 0 20px #0ac0f7;
+    border: 2px solid #ff4d4d;
+    box-shadow: 0 0 10px #ff4d4d, 0 0 20px #ff4d4d;
     border-radius: 12px;
     width: 280px;
     padding: 1.5rem;
@@ -85,8 +85,6 @@ Desarrollador de videojuegos apasionado por crear experiencias interactivas memo
 
 <hr class="neon-separator">
 
-
-<hr class="neon-separator">
 
 ## Projects
 
