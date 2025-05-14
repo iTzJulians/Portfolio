@@ -21,8 +21,15 @@ I was in charge of programming all the mechanics for each object, polishing them
 
 ## 📹 Video Gameplay
 
-<iframe width="100%" height="315" src="https://youtu.be/j1KlpKYg4Ds" title="Museo del encanto Gameplay" frameborder="0" allowfullscreen></iframe>
-
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin-top:1rem;margin-bottom:2rem;">
+  <iframe 
+    src="https://www.youtube.com/embed/2Fj1Klp" 
+    style="position:absolute;top:0;left:0;width:100%;height:100%;" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen>
+  </iframe>
+</div>
 ---
 
 [⬅ Volver al portafolio](/#projects)
