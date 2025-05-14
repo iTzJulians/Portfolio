@@ -12,7 +12,7 @@ title: Museo del encanto
 **Tools:** Unity, C#.
 **My Rol:** Main programmer, assets integrator.
 
-## 🎮 Description
+## 🎮 About the project
 
 **Museo del Encanto** is a virtual reality experience that invites players to discover the richness of Colombian culture. Inside an interactive museum, users can engage with traditional games, enjoy authentic music, and learn about regional clothing styles from across the country.
 This project was created for a national competition at Senasoft, during a three-day jam.
