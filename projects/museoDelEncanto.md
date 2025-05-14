@@ -84,13 +84,11 @@ title: Museo del encanto
 # Museo del encanto
 *An immersive VR experience to explore Colombian culture through traditional games, music, and clothing.*
 
-
+<hr class="neon-separator">
 
 <img src="/assets/Museo del encanto.png" alt="Museo del encanto" style="width:100%; border-radius:8px; margin: 1rem 0;">
 
-**Genre:** VR  
-**Tools:** Unity, C#.
-**My Rol:** Main programmer, assets integrator.
+<hr class="neon-separator">
 
 ## 🎮 About the project
 
@@ -98,6 +96,11 @@ title: Museo del encanto
 This project was created for a national competition at Senasoft, during a three-day jam.
 I was in charge of programming all the mechanics for each object, polishing them, and integrating all the stage assets. It was a very enriching and fun experience. Along with my partner's help, we managed to complete the project, taking first place!
 
+- **Genre:** VR  
+- **Tools:** Unity, C#.
+- **My Rol:** Main programmer, assets integrator.
+
+<hr class="neon-separator">
 
 ## 📹 Video Gameplay
 
@@ -110,6 +113,9 @@ I was in charge of programming all the mechanics for each object, polishing them
     allowfullscreen>
   </iframe>
 </div>
+
+<hr class="neon-separator">
+
 ---
 
 [⬅ Volver al portafolio](/#projects)
