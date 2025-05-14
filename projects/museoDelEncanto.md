@@ -15,6 +15,8 @@ title: Museo del encanto
 ## 🎮 Description
 
 **Museo del Encanto** is a virtual reality experience that invites players to discover the richness of Colombian culture. Inside an interactive museum, users can engage with traditional games, enjoy authentic music, and learn about regional clothing styles from across the country.
+This project was created for a national competition at Senasoft, during a three-day jam.
+I was in charge of programming all the mechanics for each object, polishing them, and integrating all the stage assets. It was a very enriching and fun experience. Along with my partner's help, we managed to complete the project, taking first place!
 
 
 ## 📹 Video Gameplay
