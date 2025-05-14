@@ -6,7 +6,7 @@ title: Museo del encanto
 # Museo del encanto
 *An immersive VR experience to explore Colombian culture through traditional games, music, and clothing.*
 
-<img src="/assets/TITULO.PNG" alt="Fox Adventure" style="width:100%; border-radius:8px; margin: 1rem 0;">
+<img src="/assets/Museo del encanto.png" alt="Museo del encanto" style="width:100%; border-radius:8px; margin: 1rem 0;">
 
 **Genre:** VR  
 **Tools:** Unity, C#.
