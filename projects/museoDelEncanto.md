@@ -17,9 +17,9 @@ title: Museo del encanto
 **Museo del Encanto** is a virtual reality experience that invites players to discover the richness of Colombian culture. Inside an interactive museum, users can engage with traditional games, enjoy authentic music, and learn about regional clothing styles from across the country.
 
 
-## 📹 Video Demo
+## 📹 Video Gameplay
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/VIDEO_ID" title="Fox Adventure Gameplay" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/VIDEO_ID" title="Museo del encanto Gameplay" frameborder="0" allowfullscreen></iframe>
 
 ---
 
