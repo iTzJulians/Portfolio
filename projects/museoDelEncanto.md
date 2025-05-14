@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Fox Adventure
-permalink: /projects/fox-adventure
 ---
 
 # 🦊 Fox Adventure
