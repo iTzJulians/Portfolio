@@ -4,6 +4,16 @@ title: My Game Dev Portfolio - Julian Steven Castellanos Niño
 ---
 
 <style>
+  .title-link {
+  color: #ff4d4d;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.title-link:hover {
+  color: #ffffff;
+  text-shadow: 0 0 5px #ff0000, 0 0 10px #ff0000;
+}
   body {
     background-color: #0d0d0d;
     color: #f0f0f0;
