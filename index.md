@@ -126,7 +126,7 @@ Passionate game developer dedicated to crafting memorable interactive experience
 <div class="card">
   <h3>Warden of the Forest</h3>
   <p>Personal project currently in development. A magical fox must fight to protect a mystical forest.</p>
-  <a href="#">View Project</a>
+  <a href="#">Coming Soon...</a>
 </div>
 
 <div class="card">
@@ -140,14 +140,14 @@ Passionate game developer dedicated to crafting memorable interactive experience
   <img src="/assets/Dungeon onslaught.png" alt="Dungeon Onslaught" style="width:100%; border-radius:8px; margin-bottom:1rem;">
   <h3>Dungeon Onslaught</h3>
   <p>A prototype where you battle hordes of monsters and unlock powerful new weapons.</p>
-  <a href="#">View Project</a>
+  <a href="/projects/dungeonOnslaught">View Project</a>
 </div>
 
 <div class="card">
   <img src="/assets/Little Jack.png" alt="Little Jack" style="width:100%; border-radius:8px; margin-bottom:1rem;">
   <h3>Little Jack</h3>
   <p>A prototype where you play as a tiny mouse trapped in a washing machine, fighting a menacing rubber duck.</p>
-  <a href="#">View Project</a>
+  <a href="/projects/littleJack">View Project</a>
 </div>
 
 </div>
