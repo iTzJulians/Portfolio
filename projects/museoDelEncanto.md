@@ -1,25 +1,21 @@
 ---
 layout: default
-title: Fox Adventure
+title: Museo del encanto
 ---
 
-# 🦊 Fox Adventure
+# Museo del encanto
+*An immersive VR experience to explore Colombian culture through traditional games, music, and clothing.*
 
 <img src="/assets/TITULO.PNG" alt="Fox Adventure" style="width:100%; border-radius:8px; margin: 1rem 0;">
 
-**Género:** Plataforma 2D de acción  
-**Herramientas:** Unity, C#, Aseprite  
-**Mi Rol:** Programador principal, diseñador de niveles, pixel artist  
+**Genre:** VR  
+**Tools:** Unity, C#.
+**My Rol:** Main programmer, assets integrator.
 
-## 🎮 Descripción
+## 🎮 Description
 
-Fox Adventure es un juego de plataformas 2D con estilo retro pixelado. Controlas a un zorro ágil con ataques de cola que pueden lanzar enemigos por los aires y resolver acertijos ambientales.
+**Museo del Encanto** is a virtual reality experience that invites players to discover the richness of Colombian culture. Inside an interactive museum, users can engage with traditional games, enjoy authentic music, and learn about regional clothing styles from across the country.
 
-## 🧪 Mecánicas principales
-
-- Ataques encadenados con animaciones personalizadas
-- Sistema de recolección de ítems con upgrades
-- Enemigos con IA simple y patrones de ataque
 
 ## 📹 Video Demo
 
