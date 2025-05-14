@@ -82,7 +82,7 @@ title: Little Jack
 </style>
 
 # Little Jack
-*A 2D suspense runner where light is your only safe space.*
+*Ever been stuck in a washing machine fighting a psycho rubber duck? Little Jack has.*
 
 <hr class="neon-separator">
 
@@ -92,9 +92,9 @@ title: Little Jack
 
 ## 🎮 About the project
 
-**Little Jack** is a short 2D suspense game where you play as a child fleeing from a terrifying monster that only emerges in the darkness. As you run, staying in the light becomes your only way to survive. The gameplay combines auto-running mechanics with reactive platforming and light-based puzzle elements to create tension and urgency.
+**Little Jack** is a boss rush-style Soulslike game developed in Unity, featuring precise combat mechanics and a high-difficulty curve. Players control a mouse character trapped inside a washing machine, navigating a compact yet intense arena to defeat a powerful rubber duck boss. The game emphasizes animation timing, hitbox accuracy, and enemy pattern recognition.
 
-This game was made for the UNGames 4D4H jam, for 4 days and 4 hours, my fellow artist and audio composer partner and I delved into planning and developing this exciting video game that was awarded as the game with the best sound design and the best game of the jam!
+This game was made for the Boss rush jam 2025, for 1 month.
 
 - **Genre:** 3D, Boss rushh, Soulslike.  
 - **Tools:** Unity, C#.
