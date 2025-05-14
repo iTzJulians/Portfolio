@@ -19,8 +19,15 @@ title: Don´t look behind you
 
 ## 📹 Video Gameplay
 
-<iframe width="100%" height="315" src="https://www.youtube.com/watch?v=SQMIk8RfM1E" title="Don´t look behind you Gameplay" frameborder="0" allowfullscreen></iframe>
-
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin-top:1rem;margin-bottom:2rem;">
+  <iframe 
+    src="https://www.youtube.com/watch?v=SQMIk8RfM1E" 
+    style="position:absolute;top:0;left:0;width:100%;height:100%;" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen>
+  </iframe>
+</div>
 ---
 
 [⬅ Volver al portafolio](/#projects)
