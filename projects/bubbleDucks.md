@@ -82,7 +82,7 @@ title: Bubble duck
 </style>
 
 # Bubble ducks
-*A 2D suspense runner where light is your only safe space.*
+*There isn't room for everyone in this bathtub... but there is room for betrayals.*
 
 <hr class="neon-separator">
 
@@ -92,9 +92,9 @@ title: Bubble duck
 
 ## 🎮 About the project
 
-**Don't Look Behind You** is a short 2D suspense game where you play as a child fleeing from a terrifying monster that only emerges in the darkness. As you run, staying in the light becomes your only way to survive. The gameplay combines auto-running mechanics with reactive platforming and light-based puzzle elements to create tension and urgency.
+**Bubble duck** Bubble Duck is a chaotic local multiplayer game where you and your friends battle it out in a slippery bathtub. Push each other out, claim your space, and become the true master of the bubbles! Fast, funny, and guaranteed to cause laughter (and maybe a few friendly grudges)..
 
-This game was made for the UNGames 4D4H jam, for 4 days and 4 hours, my fellow artist and audio composer partner and I delved into planning and developing this exciting video game that was awarded as the game with the best sound design and the best game of the jam!
+ This was the game made for the Global Game Jam 2025 within 48 hours!!
 
 - **Genre:** 2D, local multiplayer, party game.  
 - **Tools:** Unity, C#.
