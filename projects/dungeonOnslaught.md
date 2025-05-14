@@ -82,7 +82,7 @@ title: Dungeon onslaught
 </style>
 
 # Dungeon onslaught
-*A 2D suspense runner where light is your only safe space.*
+*Fight the hordes, improve your skills and get all the weapons!*
 
 <hr class="neon-separator">
 
@@ -92,13 +92,13 @@ title: Dungeon onslaught
 
 ## 🎮 About the project
 
-**Dungeon Onslaught** is a short 2D suspense game where you play as a child fleeing from a terrifying monster that only emerges in the darkness. As you run, staying in the light becomes your only way to survive. The gameplay combines auto-running mechanics with reactive platforming and light-based puzzle elements to create tension and urgency.
+**Dungeon Onslaught** Developed as part of a job interview assessment, Dungeon Onslaught features a wave-based combat system where players battle through enemy hordes. The game includes a fully functional inventory system with persistent saving. After each round, players unlock a new weapon, encouraging strategic experimentation and progression through increasing difficulty.
 
-This game was made for the UNGames 4D4H jam, for 4 days and 4 hours, my fellow artist and audio composer partner and I delved into planning and developing this exciting video game that was awarded as the game with the best sound design and the best game of the jam!
+This game was made with a lot of love and dedication during the 48 hours :3!
 
 - **Genre:** 2D, pixel art, horde.  
 - **Tools:** Unity, C#.
-- **My Rol:** Main programmer, assets integrator.
+- **My Rol:** Main programmer, assets integrator, game designer.
 
 <hr class="neon-separator">
 
