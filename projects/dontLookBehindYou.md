@@ -96,9 +96,9 @@ title: Don´t look behind you
 
 This game was made for the UNGames 4D4H jam, for 4 days and 4 hours, my fellow artist and audio composer partner and I delved into planning and developing this exciting video game that was awarded as the game with the best sound design and the best game of the jam!
 
--**Genre:** Runner, Terror, 2D.  
--**Tools:** Unity, C#.
--**My Rol:** Main programmer, assets integrator.
+- **Genre:** Runner, Terror, 2D.  
+- **Tools:** Unity, C#.
+- **My Rol:** Main programmer, assets integrator.
 
 <hr class="neon-separator">
 
