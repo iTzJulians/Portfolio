@@ -86,7 +86,7 @@ title: Museo del encanto
 
 <hr class="neon-separator">
 
-<img src="/assets/Museo del encanto.png" alt="Museo del encanto" style="width:100%; border-radius:8px; margin: 1rem 0;">
+<img src="/assets/Museo del encanto.png" alt="Museo del encanto" style="width:50%; border-radius:8px; margin: 1rem 0;">
 
 <hr class="neon-separator">
 
