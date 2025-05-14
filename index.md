@@ -134,7 +134,7 @@ Passionate game developer dedicated to crafting memorable interactive experience
  <h3>Bubble Duck</h3>
  <p>A fun local multiplayer game where you push your friends out of a bathtub arena!</p>
  <a href="/projects/bubbleDucks">View Project</a></div>
-</div>
+
 
 <div class="card">
   <img src="/assets/Dungeon onslaught.png" alt="Dungeon Onslaught" style="width:100%; border-radius:8px; margin-bottom:1rem;">
