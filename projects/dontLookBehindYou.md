@@ -86,7 +86,7 @@ title: Don´t look behind you
 
 <hr class="neon-separator">
 
-<img src="/assets/Dont look behind you.png" alt="Dont look behind you" style="width:100%; border-radius:8px; margin: 1rem 0;">
+<img src="/assets/Dont look behind you.png" alt="Dont look behind you" style="width:50%; border-radius:8px; margin: 1rem 0;">
 
 <hr class="neon-separator">
 
