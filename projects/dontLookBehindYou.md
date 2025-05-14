@@ -12,7 +12,7 @@ title: Don´t look behind you
 **Tools:** Unity, C#.
 **My Rol:** Main programmer, assets integrator.
 
-## 🎮 Description
+## 🎮 About the project
 
 **Don't Look Behind You** is a short 2D suspense game where you play as a child fleeing from a terrifying monster that only emerges in the darkness. As you run, staying in the light becomes your only way to survive. The gameplay combines auto-running mechanics with reactive platforming and light-based puzzle elements to create tension and urgency.
 
