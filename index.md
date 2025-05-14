@@ -103,7 +103,7 @@ Passionate game developer dedicated to crafting memorable interactive experience
   <img src="/assets/Museo del encanto.png" alt="Museo del encanto" style="width:100%; border-radius:8px; margin-bottom:1rem;">
   <h3>Museo del Encanto</h3>
   <p>A VR experience where you can explore Colombian folklore and culture in a fun and interactive way.</p>
-  <a href="/projects/museoDelEncanto.md">View Project</a>
+  <a href="/projects/museoDelEncanto.html">View Project</a>
 </div>
 
 <div class="card">
