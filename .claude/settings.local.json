@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/Users/julia/Documents/**)",
+      "Bash(not, then *)"
+    ]
+  }
+}

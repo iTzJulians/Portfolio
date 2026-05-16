@@ -1,0 +1,153 @@
+{
+  "nav": {
+    "about": "Sobre Mí",
+    "skills": "Habilidades",
+    "tech": "Tecnologías",
+    "projects": "Proyectos",
+    "timeline": "Trayectoria",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "greeting": "Hola, soy",
+    "subtitle": "Desarrollador de Juegos | Unity & C# | Experto en VR",
+    "btnProjects": "Ver Proyectos",
+    "btnAbout": "Sobre Mí"
+  },
+  "stats": {
+    "projects": "Proyectos",
+    "gameJams": "Game Jams",
+    "awards": "Premios",
+    "experience": "Años Experiencia"
+  },
+  "about": {
+    "title": "Sobre Mí",
+    "text": "Apasionado desarrollador de juegos con experiencia en Unity, C# y diseño de niveles. Trabajo en crear experiencias interactivas memorables. He colaborado en proyectos ganadores de premios y disfruto explorar nuevas tecnologías en el desarrollo de juegos."
+  },
+  "skills": {
+    "title": "Habilidades",
+    "unity": { "desc": "Desarrollo avanzado con Unity y C# creando juegos 2D, 3D y experiencias VR." },
+    "gameDesign": { "desc": "Creación de mecánicas, niveles y experiencias de juego equilibradas." },
+    "git": { "desc": "Control de versiones y colaboración en equipo." }
+  },
+  "tech": {
+    "title": "Stack Tecnológico",
+    "unity": { "desc": "Motor de juegos principal para proyectos 2D, 3D y VR." },
+    "csharp": { "desc": "Lenguaje de programación principal para lógica de juego." },
+    "blender": { "desc": "Modelado 3D y creación de assets." },
+    "github": { "desc": "Control de versiones y colaboración." }
+  },
+  "projects": {
+    "title": "Proyectos"
+  },
+  "filter": {
+    "all": "Todos",
+    "featured": "Destacados",
+    "2d": "2D",
+    "3d": "3D",
+    "vr": "VR",
+    "gameJam": "Game Jam"
+  },
+  "project": {
+    "back": "← JC Portfolio",
+    "downloadSection": "Descargar y jugar",
+    "aboutSection": "Sobre el proyecto",
+    "videoSection": "Video de gameplay",
+    "bubbleDucks": {
+      "desc": "Juego multijugador local caótico en una bañera.",
+      "download": "Descargar →",
+      "downloadLink": ">>DESCARGAR EN ITCH.IO<<",
+      "tagline": "\"There isn't room for everyone in this bathtub... but there is room for betrayals.\"",
+      "desc1": "Bubble Duck es un caótico juego multijugador local donde tú y tus amigos luchan en una resbaladera bañera. Empuja a cada uno fuera, reclama tu espacio y conviértete en el verdadero maestro de las burbujas. Rápido, divertido y garantizado para causar risas (y quizá algunos rencores amistosos)..",
+      "desc2": "Este fue el juego hecho para la Global Game Jam 2025 en ¡48 horas!!",
+      "genre": "Género: 2D, multijugador local, juego de fiesta",
+      "tools": "Herramientas: Unity, C#",
+      "role": "Mi rol: Programador principal, integrador de assets"
+    },
+    "dontLookBehindYou": {
+      "desc": "Runner 2D de suspense donde la luz es tu seguridad.",
+      "download": "Descargar →",
+      "downloadLink": ">>DESCARGAR AQUÍ<<",
+      "tagline": "A 2D suspense runner where light is your only safe space.",
+      "desc1": "Don't Look Behind You es un juego corto de suspenso 2D donde juegas como un niño escapando de un monstruo aterrador que solo emerge en la oscuridad. Correr y mantenerse en la luz es la única forma de sobrevivir.",
+      "genre": "Género: Runner, terror, 2D",
+      "tools": "Herramientas: Unity, C#",
+      "role": "Mi rol: Programador principal, integrador de assets"
+    },
+    "dungeonOnslaught": {
+      "desc": "Combate por oleadas con sistema de inventario y progresión. Cada ronda desbloquea un arma nueva.",
+      "download": "Descargar →",
+      "downloadLink": ">>DESCARGAR AQUÍ<<",
+      "tagline": "Fight the hordes, improve your skills, and get all the weapons!",
+      "desc1": "Dungeon Onslaught es un juego de combate por oleadas con sistema de inventario y progresión. Enfréntate a hordas de enemigos, administra tus recursos y desbloquea un arma nueva al superar cada ronda. Cada decisión cuenta: ¿qué llevas al siguiente enfrentamiento?",
+      "desc2": "Fue desarrollado como parte de una prueba de empleo, con mucho cariño y dedicación durante 48 horas :3!",
+      "genre": "Género: 2D, pixel art, hordas",
+      "tools": "Herramientas: Unity, C#",
+      "role": "Mi rol: Programador principal, integrador de assets, game designer"
+    },
+    "littleJack": {
+      "desc": "Acción intenso en una lavadora luchando contra un pato de goma.",
+      "download": "Descargar →",
+      "downloadLink": ">>DESCARGAR AQUÍ<<",
+      "tagline": "Ever been stuck in a washing machine fighting a psycho rubber duck? Little Jack has.",
+      "desc1": "Little Jack es un juego boss-rush 3D con estilo Soulslike desarrollado en Unity, con mecánicas de combate precisas y una curva de dificultad alta. El jugador controla una rata atrapada dentro de una lavadora, enfrentándose a un pato de goma poderoso.",
+      "desc2": "Este juego fue creado para la Boss Rush Jam 2025, con un desarrollo de un mes.",
+      "genre": "Género: 3D, Boss rush, Soulslike",
+      "tools": "Herramientas: Unity, C#",
+      "role": "Mi rol: Programador de personajes, integrador de assets"
+    },
+    "museoDelEncanto": {
+      "desc": "Experiencia VR inmersiva sobre la cultura colombiana. Juegos tradicionales, música y vestimenta típica. Ganador del 1er lugar en Senasoft.",
+      "download": "Descargar →",
+      "tagline": "An immersive VR experience to explore Colombian culture.",
+      "desc1": "Museo del Encanto es una experiencia VR inmersiva que invita a explorar la riqueza de la cultura colombiana. Dentro de un museo interactivo, los usuarios pueden participar en juegos tradicionales, disfrutar de música auténtica y descubrir la vestimenta típica de cada región del país.",
+      "desc2": "Este proyecto se creó para una competencia nacional en Senasoft, durante un concurso de 3 días. Yo era responsable de programar todas las mecánicas de cada objeto, afinarlas y manejar toda la integración de assets. Con la ayuda de mi pareja, completamos el proyecto logrando el primer lugar.",
+      "genre": "Género: VR",
+      "tools": "Herramientas: Unity, C#",
+      "role": "Mi rol: Programador principal, integrador de assets"
+    }
+  },
+  "timeline": {
+    "title": "Trayectoria",
+    "1": {
+      "title": "Inicio en desarrollo de juegos",
+      "desc": "Primeros proyectos personales en Unity. Descubrimiento del desarrollo VR."
+    },
+    "2": {
+      "title": "Senasoft - 1er Lugar",
+      "desc": "Ganador del primer lugar con Museo del Encanto, una experiencia VR sobre cultura colombiana."
+    },
+    "3": {
+      "desc": "Creación de Bubble Duck en 48 horas. Participación en múltiples game jams."
+    },
+    "4": {
+      "title": "UNGAMES 4D4H Jam - Mejor Diseño de Sonido",
+      "desc": "Creación de Don't Look Behind You con el tema \"On/Off\". Ganador de Mejor Diseño de Sonido y Mejor Juego."
+    },
+    "5": {
+      "desc": "Desarrollo de Little Jack, un boss-rush Soulslike 3D en un mes."
+    },
+    "6": {
+      "title": "Portfolio y nuevos proyectos",
+      "desc": "Lanzamiento de portfolio profesional y nuevos proyectos en desarrollo."
+    }
+  },
+  "contact": {
+    "title": "Contacto",
+    "cta": "¿Tienes un proyecto en mente? Contáctame",
+    "ctaSpan": "Actualmente disponible para nuevos proyectos y colaboraciones."
+  },
+  "form": {
+    "name": "Nombre",
+    "email": "Email",
+    "message": "Mensaje",
+    "submit": "Enviar mensaje",
+    "sending": "Enviando...",
+    "success": "Mensaje enviado. Gracias!",
+    "error": "Error al enviar. Intenta de nuevo."
+  },
+  "footer": "© 2026 Julian Castellanos - Todos los derechos reservados",
+  "backToTop": "Volver arriba",
+  "hamburger": {
+    "label": "Menú"
+  }
+}

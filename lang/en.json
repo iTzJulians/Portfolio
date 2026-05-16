@@ -1,0 +1,153 @@
+{
+  "nav": {
+    "about": "About Me",
+    "skills": "Skills",
+    "tech": "Tech Stack",
+    "projects": "Projects",
+    "timeline": "Timeline",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Hi, I'm",
+    "subtitle": "Game Developer | Unity & C# | VR Expert",
+    "btnProjects": "View Projects",
+    "btnAbout": "About Me"
+  },
+  "stats": {
+    "projects": "Projects",
+    "gameJams": "Game Jams",
+    "awards": "Awards",
+    "experience": "Years Experience"
+  },
+  "about": {
+    "title": "About Me",
+    "text": "Passionate game developer with experience in Unity, C#, and level design. I work to create memorable interactive experiences. I've collaborated on award-winning projects and enjoy exploring new technologies in game development."
+  },
+  "skills": {
+    "title": "Skills",
+    "unity": { "desc": "Advanced development with Unity and C# creating 2D, 3D games and VR experiences." },
+    "gameDesign": { "desc": "Creation of mechanics, levels, and balanced game experiences." },
+    "git": { "desc": "Version control and team collaboration." }
+  },
+  "tech": {
+    "title": "Tech Stack",
+    "unity": { "desc": "Main game engine for 2D, 3D and VR projects." },
+    "csharp": { "desc": "Main programming language for game logic." },
+    "blender": { "desc": "3D modeling and asset creation." },
+    "github": { "desc": "Version control and collaboration." }
+  },
+  "projects": {
+    "title": "Projects"
+  },
+  "filter": {
+    "all": "All",
+    "featured": "Featured",
+    "2d": "2D",
+    "3d": "3D",
+    "vr": "VR",
+    "gameJam": "Game Jam"
+  },
+  "project": {
+    "back": "← JC Portfolio",
+    "downloadSection": "Download & Play",
+    "aboutSection": "About the project",
+    "videoSection": "Gameplay Video",
+    "bubbleDucks": {
+      "desc": "Chaotic local multiplayer game in a bathtub.",
+      "download": "Download →",
+      "downloadLink": ">>DOWNLOAD ON ITCH.IO<<",
+      "tagline": "\"There isn't room for everyone in this bathtub... but there is room for betrayals.\"",
+      "desc1": "Bubble Duck is a chaotic local multiplayer game where you and your friends fight in a slippery bathtub. Push everyone out, claim your space, and become the true master of bubbles. Fast, fun, and guaranteed to cause laughter (and maybe some friendly grudges).",
+      "desc2": "This game was made for Global Game Jam 2025 in 48 hours!!",
+      "genre": "Genre: 2D, local multiplayer, party game",
+      "tools": "Tools: Unity, C#",
+      "role": "My role: Lead programmer, asset integrator"
+    },
+    "dontLookBehindYou": {
+      "desc": "2D suspense runner where light is your safety.",
+      "download": "Download →",
+      "downloadLink": ">>DOWNLOAD HERE<<",
+      "tagline": "A 2D suspense runner where light is your only safe space.",
+      "desc1": "Don't Look Behind You is a short 2D suspense game where you play as a child escaping a terrifying monster that only emerges in darkness. Running and staying in the light is the only way to survive.",
+      "genre": "Genre: Runner, horror, 2D",
+      "tools": "Tools: Unity, C#",
+      "role": "My role: Lead programmer, asset integrator"
+    },
+    "dungeonOnslaught": {
+      "desc": "Wave combat with inventory and progression system. Each round unlocks a new weapon.",
+      "download": "Download →",
+      "downloadLink": ">>DOWNLOAD HERE<<",
+      "tagline": "Fight the hordes, improve your skills, and get all the weapons!",
+      "desc1": "Dungeon Onslaught is a wave combat game with inventory and progression system. Face hordes of enemies, manage your resources, and unlock a new weapon after each round. Every decision counts: what do you take to the next fight?",
+      "desc2": "It was developed as part of a job test, with lots of love and dedication over 48 hours :3!",
+      "genre": "Genre: 2D, pixel art, hordes",
+      "tools": "Tools: Unity, C#",
+      "role": "My role: Lead programmer, asset integrator, game designer"
+    },
+    "littleJack": {
+      "desc": "Intense action in a washing machine fighting a rubber duck.",
+      "download": "Download →",
+      "downloadLink": ">>DOWNLOAD HERE<<",
+      "tagline": "Ever been stuck in a washing machine fighting a psycho rubber duck? Little Jack has.",
+      "desc1": "Little Jack is a 3D Soulslike boss-rush game developed in Unity, with precise combat mechanics and a high difficulty curve. The player controls a rat trapped inside a washing machine, facing a powerful rubber duck.",
+      "desc2": "This game was created for Boss Rush Jam 2025, developed over one month.",
+      "genre": "Genre: 3D, Boss rush, Soulslike",
+      "tools": "Tools: Unity, C#",
+      "role": "My role: Character programmer, asset integrator"
+    },
+    "museoDelEncanto": {
+      "desc": "Immersive VR experience about Colombian culture. Traditional games, music, and typical clothing. 1st place winner at Senasoft.",
+      "download": "Download →",
+      "tagline": "An immersive VR experience to explore Colombian culture.",
+      "desc1": "Museo del Encanto is an immersive VR experience that invites you to explore the richness of Colombian culture. Inside an interactive museum, users can participate in traditional games, enjoy authentic music, and discover the typical clothing of each region of the country.",
+      "desc2": "This project was created for a national competition at Senasoft, over a 3-day contest. I was responsible for programming all the mechanics of each object, fine-tuning them, and handling all asset integration. With my partner's help, we completed the project achieving first place.",
+      "genre": "Genre: VR",
+      "tools": "Tools: Unity, C#",
+      "role": "My role: Lead programmer, asset integrator"
+    }
+  },
+  "timeline": {
+    "title": "Timeline",
+    "1": {
+      "title": "Started game development",
+      "desc": "First personal projects in Unity. Discovery of VR development."
+    },
+    "2": {
+      "title": "Senasoft - 1st Place",
+      "desc": "First place winner with Museo del Encanto, a VR experience about Colombian culture."
+    },
+    "3": {
+      "desc": "Created Bubble Duck in 48 hours. Participation in multiple game jams."
+    },
+    "4": {
+      "title": "UNGAMES 4D4H Jam - Best Sound Design",
+      "desc": "Created Don't Look Behind You with the theme 'On/Off'. Winner of Best Sound Design and Best Game."
+    },
+    "5": {
+      "desc": "Developed Little Jack, a 3D Soulslike boss-rush in one month."
+    },
+    "6": {
+      "title": "Portfolio and new projects",
+      "desc": "Launch of professional portfolio and new projects in development."
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "cta": "Have a project in mind? Contact me",
+    "ctaSpan": "Currently available for new projects and collaborations."
+  },
+  "form": {
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "submit": "Send message",
+    "sending": "Sending...",
+    "success": "Message sent. Thanks!",
+    "error": "Error sending. Try again."
+  },
+  "footer": "© 2026 Julian Castellanos - All rights reserved",
+  "backToTop": "Back to top",
+  "hamburger": {
+    "label": "Menu"
+  }
+}
